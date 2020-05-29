@@ -1,0 +1,9 @@
+{
+  "name": "node-aircontrol",
+  "version": "1.0.0",
+  "description": "Find available airplay servers and control airplay screen mirroring in macOS",
+  "main": "index.js",
+  "repository": "git@github.com:aprilandjan/node-aircontrol.git",
+  "author": "aprilandjan",
+  "license": "MIT"
+}
