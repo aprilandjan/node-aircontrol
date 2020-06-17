@@ -3,7 +3,7 @@ import osascript from 'node-osascript';
 
 /** start mirroring */
 export function start() {
-  //
+
 }
 
 /** stop mirroring */
